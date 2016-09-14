@@ -1,0 +1,5 @@
+Date,species,count
+2016-10-1,dog,4
+2016-10-2,cat,8
+2016-10-2,fish,20
+
