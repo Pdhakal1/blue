@@ -1,6 +1,5 @@
 Date,Species,Count
- 2016-08-09,Salmon,7
- 2016-08-09,Pike,1
- 2016-08-09,Trout,2
 2016-08-10,Salmon,1
-2016-08,10,Squid
+2016-08,10,Squid,4
+2016-8-10, Rollers,3
+2016-8-15,darters,4
